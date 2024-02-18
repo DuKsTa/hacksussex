@@ -1,0 +1,69 @@
+Question:Is there a fee to cancel my home policy?
+Question:How do I cancel my policy before it starts?
+Question:How do I cancel my policy?
+Question:Will I be charged if I don't want to go ahead with my renewal?
+Question:What happens if my policy has renewed automatically but I've taken insurance elsewhere?
+Question:When do I have to pay for my renewal?
+Question:How can I contact you about my renewal?
+Question:What's automatic renewal?
+Question:How do I make a change to my policy?
+Question:If my address changes, do I need to inform you straight away?
+Question:How do I change my direct debit bank account details?
+Question:How do I change my instalment date?
+Question:If I cancel my direct debit will this cancel my policy?
+Question:I've missed a direct debit payment. What can I do?
+Question:How do I make a payment?
+Question:I can't log in to MyAccount or the App
+Question:How do I get proof of my no claims discount?
+Question:Who can contact you about my policy?
+Question:How can I contact you if I have hearing or speech difficulties?
+Question:How do I make a claim on my home policy?
+Question:What's accidental damage cover?
+Question:How do I cancel my policy before it starts?
+Question:How do I cancel my policy?
+Question:What happens if my policy has renewed automatically but I've taken insurance elsewhere?
+Question:How can I contact you about my renewal?
+Question:Why has my renewal price increased?
+Question:Will I be charged if I don't want to go ahead with my renewal?
+Question:When do I have to pay for my renewal?
+Question:If my address changes, do I need to inform you straight away?
+Question:How do I change my number plate on my policy?
+Question:How do I make a change to my policy?
+Question:How do I change my vehicle?
+Question:How do I make a payment?
+Question:If I cancel my direct debit will this cancel my policy?
+Question:I've missed a direct debit payment. What can I do?
+Question:How do I change my instalment date?
+Question:How do I change my direct debit bank account details?
+Question:How do I get proof of my no claims discount?
+Question:I can't log in to MyAccount or the App
+Question:Who can contact you about my policy?
+Question:How can I contact you if I have hearing or speech difficulties?
+Question:What happens if the accident is my fault?
+Question:What happens if the accident isn't my fault?
+Question:How do I cancel my policy before it starts?
+Question:Is there a fee to cancel my van policy?
+Question:How do I cancel my policy?
+Question:When do I have to pay for my renewal?
+Question:How can I contact you about my renewal?
+Question:What happens if my policy has renewed automatically but I've taken insurance elsewhere?
+Question:Will I be charged if I don't want to go ahead with my renewal?
+Question:Why has my renewal price increased?
+Question:How do I change my number plate on my policy?
+Question:If my address changes, do I need to inform you straight away?
+Question:How do I change my vehicle?
+Question:How do I make a change to my policy?
+Question:If I cancel my direct debit will this cancel my policy?
+Question:I've missed a direct debit payment. What can I do?
+Question:How do I make a payment?
+Question:How do I change my direct debit bank account details?
+Question:How do I change my instalment date?
+Question:Contact us
+Question:I can't log in to MyAccount or the App
+Question:How do I get proof of my no claims discount?
+Question:How can I contact you if I have hearing or speech difficulties?
+Question:Who can contact you about my policy?
+Question:If I have an accident, will I get a courtesy van?
+Question:What happens if the accident isn't my fault?
+Question:What happens if the accident is my fault?
+Question:How long will my repair take?
