@@ -67,3 +67,878 @@ Question:If I have an accident, will I get a courtesy van?
 Question:What happens if the accident isn't my fault?
 Question:What happens if the accident is my fault?
 Question:How long will my repair take?
+
+Home Insurance:
+Question: 
+"
+How do I get proof of my no claims discount?
+"
+
+Answer:
+"
+You'll find your no claims discount (NCD) in the app or online in MyAccount, where you can view, download and print it at any time.
+
+Simply log in, go to the Documents section and select Get NCD. A letter with all your NCD information will be uploaded to the app or MyAccount and we'll email you when it's ready to view, normally within two hours.
+
+Otherwise:
+
+If your policy's ended or been cancelled, your NCD will be listed in the last letter we sent you, called Your insurance ends today.
+If you've made a claim - or are in the middle of making one, you may not see the Get NCD option.
+Don't forget, you can only use your NCD on one insurance policy at a time
+"
+Question:
+"
+How can I contact you if I have hearing or speech difficulties?
+"
+Answer:
+"
+You can use the Relay UK service to phone us using an app or text phone. You can download the Relay UK app at www.relayuk.bt.com. If you have a text phone, first dial 18001 and then our phone number.
+
+The charges when you use Relay UK:
+
+The Relay UK service itself is free.  
+Your calls are charged at your phone provider’s standard rate.  
+Calls through Relay UK can be longer than a voice call. So you might be able to get a refund from your phone provider.
+"
+
+Question:
+"
+What's accidental damage cover?
+"
+
+Answer:
+"
+Accidental damage covers you for damage caused by one off accidents to either your property or its contents. 
+
+If your policy number starts with 'H', you're automatically covered for damage to:
+
+Contents - Home entertainment equipment, mirrors and glass.
+
+You can upgrade to our additional level which also covers you for things like spillages on your carpet or sofa.
+
+Buildings - Fixed glass, sanitary ware, pipes and cables.
+
+You can upgrade to our additional level which also covers you for things like putting your foot through a ceiling or leaving a tap running.  
+
+You can see if you’re covered in your documents under ‘Statement of insurance’. 
+
+If your policy number starts with 'XA', you don't have accidental damage cover included as standard, but can add it to your policy any time to cover you for all of the above.
+You can see if you’re covered in your documents under ‘Policy summary’.
+"
+
+Bike Insurance:
+Question:
+"
+How do I cancel my policy before it starts?
+"
+Answer:
+"
+We're sorry you're thinking of cancelling your insurance and hope we can be a better fit for you in the future. You won't have to pay a cancellation fee but any fees you paid when you bought your policy are non-refundable. Remember, if you need proof of your no claims discount it will still be with your previous insurer as your policy with us hasn't started.
+
+To cancel before your policy starts, just call us on:
+Bike policies - 0333 321 9801
+ 
+
+Our contact hours are Monday to Friday 8am - 7pm, Saturday 9am - 5pm and Sunday 9am - 1pm
+
+You may have other options
+Depending on why you want to cancel, there may be some other options for you.
+
+If you need to change your details - If you're moving home or getting a new bike you might not need to cancel your policy. You could try updating your current policy details instead.
+Making a change 
+Call us on 0333 321 9801.
+
+Our opening hours are Monday to Friday 8am - 7pm, Saturday 9am - 5pm and Sunday 9am - 1pm.
+
+If you've received a renewal quote but want to cancel your renewal - If you don't want to go ahead with your renewal, just let us know before your renewal date by calling us on the number below. We'd love you to stay with us so, if you do get a better quote, call us with the details and we'll try our best to beat it. If you still want to cancel your renewal and need proof of your no claims discount it will be available in the app or MyAccount.
+
+Bike policies - 0333 321 9790
+"
+Question:
+"
+If my address changes, do I need to inform you straight away?
+"
+Answer:
+"
+Yes, as it could affect your cover. It may also cause the price of your policy to go up or down, and you'll need to pay an admin fee to make the change. Here's our fee guide for more information: https://www.hastingsdirect.com/about...our-fees.shtml
+
+To change your address, call us on 0333 321 9801.
+
+Our opening hours are Monday to Friday 8am - 7pm, Saturday 9am - 5pm and Sunday 9am - 1pm.
+"
+Question:
+"
+How do I get proof of my no claims discount?
+"
+Answer:
+"
+You'll find your no claims discount (NCD) in the app or online in MyAccount, where you can view, download and print it at any time.
+
+Simply log in, go to the Documents section and select Get NCD. A letter with all your NCD information will be uploaded to the app or MyAccount and we'll email you when it's ready to view, normally within two hours.
+
+Otherwise:
+
+If your policy's ended or been cancelled, your NCD will be listed in the last letter we sent you, called Your insurance ends today.
+If you've made a claim - or are in the middle of making one, you may not see the Get NCD option.
+Don't forget, you can only use your NCD on one insurance policy at a time.
+"
+Question:
+"
+What happens if the accident is my fault?
+"
+Answer:
+"
+If you have a comprehensive policy and you're involved in an accident, we'll make it our priority to get you back on the road as quickly as possible. We'll either arrange for your vehicle to be repaired or make a payment for your vehicle if it's a total loss (or 'write off'). If the accident involved someone else, we'll contact them and offer to repair their vehicle or pay for a replacement if it's a total loss. This allows us to settle the claim as quickly as possible and control the costs involved too. If there's any disagreement about who was at fault, we'll review all the evidence available. We can then determine who was responsible - and if we can recover all or some of our costs. We'll let you know the outcome and if your policy has been impacted. 
+
+If you have a third-party fire and theft policy or third party only, your policy doesn't include cover for accidental damage to your own vehicle, so you can't make a claim for the costs of fixing or replacing it. If there are any claims made against you, we will deal with them.
+"
+Question:
+"
+What happens if the accident isn't my fault?
+"
+Answer:
+"
+If you have a comprehensive policy and you're involved in an accident, we'll make it our priority to get you back on the road as quickly as possible. We'll either arrange for your vehicle to be repaired or make a payment for your vehicle if it's a total loss (or 'write off'). If the accident involved someone else, we'll contact them and offer to repair their vehicle or pay for a replacement if it's a total loss. This allows us to settle the claim as quickly as possible and control the costs involved too. If there's any disagreement about who was at fault, we'll review all the evidence available. We can then determine who was responsible - and if we can recover all or some of our costs. We'll let you know the outcome and if your policy has been impacted. 
+
+If you have a third-party fire and theft policy or third party only, your policy doesn't include cover for accidental damage to your own vehicle, so you can't make a claim for the costs of fixing or replacing it. If there are any claims made against you, we will deal with them.
+"
+Van Insurance:
+Question:
+"
+How do I change my number plate on my policy?
+"
+Answer:
+"
+Please call us on 0333 321 9801 to get a quote for a change to your policy.
+
+We're open:
+
+Monday-Friday 8am-7pm
+Saturday 9am-5pm
+Sunday 9am-1pm
+Bank holidays 9am-5pm
+"
+Question:
+"
+I've missed a direct debit payment. What can I do?
+"
+Answer:
+"
+The simplest way to pay your outstanding amount is in the app or online in MyAccount. Just log in, go to Payments and follow the instructions to pay your balance.
+
+If you don't make a payment, we'll be in touch to arrange collecting the missed amount either by direct debit or from the card we have on file for you.
+
+If you're having financial difficulties
+If you're worried about your payments, please get in touch and we'll do what we can to help. Please don't cancel any payments or direct debits without speaking to us first. Missing payments means you run the risk of your policy being cancelled and we don't want you to be left uninsured.
+
+Call us on 0333 321 9630, Monday-Friday 9am–5:30pm. We can talk you through your payment options and may be able to find a payment plan that's more affordable for you. All conversations are confidential and, if it's easier, we can talk to a relative, friend or debt counselling organisation about your account - we'll just need your authorisation to do this.
+
+You can also find lots of impartial advice online from the Money Helper, National Debtline, StepChange Debt Charity and the Citizens Advice Bureau
+"
+Question:
+"
+How do I change my instalment date?
+"
+Answer:
+"
+The simplest way to change your instalment date is in the app. You can also do this in MyAccount.
+
+Simply log in:
+
+Go to Payments and select Update DD details.
+Fill out the new details and select Update.
+You'll be sent an email or letter confirming your details have been changed, normally within two hours.
+If your next payment is due in less than three working days, we may not be able to change it in time, but any future payments will go out on your new date.
+
+If you're worried about paying for your insurance
+Please get in touch as soon as possible and we'll do our best to help you. We can talk you through your payment options and may be able to find a payment plan that's more affordable for you. Call us on 0333 321 9630, Monday-Friday 9am–5:30pm.
+
+All conversations are confidential and, if it's easier, we can talk to a relative, friend or debt counselling organisation about your account - we'll just need your OK to do this.
+You can also get lots of impartial advice from the Money Helper, National Debtline, StepChange Debt Charity and the Citizens Advice Bureau.
+
+If you're paying for someone else's insurance by direct debit, or want your insurance paid by someone else
+
+Please get in touch on 0333 321 9801.
+"
+
+Car insurance
+Choose car insurance with flexible levels of cover and optional extras. Get a hassle-free car insurance quote in minutes.
+
+Get a car insurance quote
+Retrieve your car insurance quote
+Make a claim or report an incident
+Home
+Car insurance
+Why choose Hastings Direct car insurance?
+Flexible car insurance loaded with benefits, plus a great range of optional extras 
+Easy to get a car insurance quote online 
+Easy-to-use app – over 3 million of our customers have downloaded  
+Our Direct and Premier policies are 5 Star-rated by Defaqto 
+We are trusted and have over 3 million customers  
+We’ve been protecting drivers for over 25 years 
+So, if you're looking for trusted, good-value car insurance, you've come to the right place. 
+
+What does our car insurance for UK drivers cover?
+You can create the perfect package to suit your needs and budget. Choose from three different levels of cover, Essentials, Direct and Premier.  They're all available as a standard or online product (which is a lower cost, self-service policy that you manage yourself in the app or MyAccount).
+
+We also offer YouDrive a Telematics car insurance policy where your price is based on how you drive. And If you have more than one car in your household, you could save money by switching to our Multi Car insurance. 
+
+Compare car insurance options below:
+
+
+
+Telematics policy
+
+
+ 
+
+
+ 
+
+
+ 
+
+Courtesy car
+EU cover
+Driving other cars (subject to insurer approval)
+Windscreen cover
+Vandalism promise
+Uninsured driver promise
+Personal belongings cover
+Motor legal expenses
++ £29.99	+ £29.99	+ £29.99	
+RAC breakdown
+from £34.99	from £34.99	from £34.99	
+24/7 claims helpline
+Manage your policy 24/7
+Defaqto rated
+    
+    
+    
+    
+We also offer a range of optional extras, such as enhanced personal accident cover, breakdown, motor legal expenses and key protection, which you can easily add to your car policy. Limitations may apply to these products.
+
+Get a car insurance quote
+Retrieve your car insurance quote
+YouDrive good driver image
+
+
+Good driver? Get the price you deserve
+Most insurance is based on your answers to a bunch of questions but our telematics car insurance YouDrive also looks at your actual driving style. So, you'll get a great price on day one and, as long as you drive well, you'll keep getting a low price every year. Simple.
+
+I'd like to find out more
+More than one car at home?
+Get our guaranteed best price with Multi Car! As a Multi Car customer, you can save money on every car you add to the policy.
+
+Find out more
+Best price based on a new Multi Car quote compared to a like for like new car quote.
+
+Do I need car insurance?
+If you own or drive a car, you’re legally required to have car insurance in the UK. Unless you officially register your car as off the road with a SORN, or if you’re in the process of buying or selling it, you could face a fine for not having insurance. 
+ 
+
+What are the different types of car insurance?
+Third party 
+Third party fire and theft 
+Comprehensive car insurance.  
+To make car insurance comparison easier, here's a quick rundown of what each level includes: 
+
+Third party
+This is the minimum level of insurance required by law. If you're involved in an accident, it covers damage to the other person's property, but costs to repair or replace your car will come from your pocket. And you won't be covered if your car is stolen or damaged by fire. 
+
+Third party fire and theft
+Third party fire and theft cover offers the same cover as a third-party policy but you're also covered if your car's stolen or damaged/destroyed by fire. 
+
+Comprehensive
+This provides you with the highest level of cover. If you're involved in an accident, the policy will pay out for costs associated with you and the third party. It also offers protection against fire and theft. 
+
+People assume that third-party policies are the cheapest but, because more people claim on this type of insurance, they can cost just as much as – or sometimes more than – comprehensive policies. Even if comprehensive cover is a little more expensive, you benefit from a far greater level of protection on the road. 
+
+There are also specialist insurance policies to suit different drivers, like: 
+
+Multi Car cover 
+
+YouDrive telematics insurance 
+
+Business car policies 
+
+What features can I get with my car insurance?
+We offer lots of policy features as standard, plus a range of optional extras to suit your needs. These include: 
+
+Courtesy car cover, providing a replacement vehicle if yours needs to be repaired. 
+Windscreen cover, paying for repair or replacement costs for a cracked windscreen. 
+Vandalism promise, which covers costs if your car is intentionally damaged. 
+Uninsured driver promise, which safeguards you if you’re involved in a non-fault accident with an uninsured driver. 
+Personal belongings cover, to cover costs if valuable items inside your car get stolen or damaged. 
+Four levels of optional breakdown cover, from basic roadside assistance to cover at home and in Europe. 
+Car key protection in case you damage, lose or have your car keys stolen. 
+Legal protection to cover legal costs if you want to take action against another driver or defend yourself against accusations. 
+Enhanced personal accident cover to offer financial compensation for you and up to six passengers if you suffer injuries. 
+Compare our car insurance policies and the features that they include to find the right level of cover for you.
+
+How much does car insurance cost?
+There's no set price for car insurance. This is because car insurance companies calculate premiums based on a range of factors unique to you. These include: 
+
+Age and years of driving experience – younger, less experienced drivers usually cost more to insure as they’re seen as higher-risk. 
+Your driving history (claims and points, etc.). 
+Postcode, with cars kept in high-crime areas usually costlier to insure. 
+Where you keep your car during the day and night, for example in a garage or on the street. 
+Occupation – some jobs are seen as riskier if they involve lots of driving, for example. 
+Annual mileage – the longer that you spend on the road, the higher the risk of accidents. 
+The car you drive also plays a big part in the price of cover, with car insurance companies taking into account: 
+
+Value 
+Modifications 
+Performance 
+Safety features 
+How to get cheaper car insurance quotes
+As well as comparing car insurance quotes for our different policies, there are many things that you can do to make sure that you pay the lowest possible price.  
+
+Build a no claims discount by driving carefully and avoiding making claims for one year or more (though we still offer competitive car insurance for new drivers). 
+
+Consider telematics insurance, which tracks and rewards sensible driving through a device fitted to your car. 
+
+Improve your car’s security by storing it somewhere safe overnight and fitting approved extras like an alarm or immobiliser. 
+
+Pay for insurance annually rather than monthly if you can afford to, as monthly payments include interest. 
+
+Increase your voluntary excess (as long as you can still afford to pay it if you need to). 
+
+You can find more handy tips on our budget car insurance page. 
+
+How to check if a car is insured?
+The easiest way to check your car's insured is in the Motor Insurer's Database. The website contains information on all insured vehicles in the UK – all you need is your car’s registration number to use it.
+
+How to get car insurance
+When taking out cover, you'll need to enter details about you and your car. Here are some details that we’ll ask you to give so that we can provide a tailored insurance quote for your car: 
+
+Car registration number 
+Driving licence number 
+Address and work address if you'll use the car for work 
+Years of no-claims discount 
+Estimated value of your car 
+Details of claims and convictions/motoring offences (if applicable) 
+Estimated annual mileage 
+Bank details (for payment). 
+What details do you need to insure a car?
+When taking out car insurance, you'll need to enter details about you and your car. Here are some details you'll be asked to give:
+
+Car registration number
+Driving licence number
+Address and work address if you'll use the car for work
+Years of no-claims discount
+Estimated value of your car
+Details of claims and convictions/motoring offences (if applicable)
+Estimated annual mileage
+Bank details (for payment)
+How long is a car insurance quote valid for?
+We’ll keep your car insurance quote safe on our system for 30 days. Bear in mind that the price could go up or down in the meantime. This usually happens if new risk information comes out – for example, new safety ratings for your car.
+
+Can you get an insurance quote without a car?
+As getting car insurance quotes require specific information about the car, it's not possible to get a quote without a car. That’s unless you know the car you're buying and its registration number. 
+
+If you're on the hunt for budget car insurance and haven't yet bought your car, we recommend spending some time looking around for cheap cars to insure. All cars are grouped into one of 50 different insurance classes, with the cheapest cars in group 1. So, if you want to save on cover, your best bet is to choose a car in a lower group. See your chosen car’s insurance group by using Thatcham Research’s My Vehicle Search tool. 
+
+Can I transfer my car insurance policy to a new car?
+Yes, simply log in to our app or MyAccount and: 
+
+Select 'manage policy', then 'manage vehicle' and add your new car details. 
+
+You'll be given a car insurance quote, including any change to the total price and any additional fees. If you're happy, simply click ‘continue’. If your total price decreases, you'll be a due a refund or, if your price has increased, you can select how you'd like to pay. 
+
+We'll let you know when your new policy documents are ready. This can normally take up to two hours and you'll still be insured on your old car on the day when your new policy starts.  
+
+How can I make a car insurance claim?
+If something’s happened to your car, it’s quick and easy to start a new claim online. Just log into our app or MyAccount to get started, and we’ll do what we can to help you get back on the road. Find more information on our car claims page. 
+
+Car insurance policy documents
+Don't have a policy with us yet?
+You'll be able to see your documents once you've bought a policy with us. Simply fill out the quote details, selecting the level of cover that's right for you and choose from our wide range of optional extras to create the perfect package for your needs and budget.
+
+Already have a policy with us?
+If you've registered, log in to MyAccount to view your policy documents and find other useful information. Or you can download your documents here:
+
+Policy info
+Policy info
+Acceptance criteria
+Insurance policy documents
+Car insurance glossary
+About my claim
+Information about our insurers
+Important information about driving abroad
+Our fees
+Renewal prices
+The most common traffic mistakes
+Types of cover
+Types of cover
+Comprehensive car insurance
+Third party car insurance
+Third party, fire & theft cover
+Multi Car insurance
+Telematics insurance
+Online insurance
+Policy features
+Policy features
+Breakdown cover
+Key protection
+Legal protection
+No claims discount
+Personal accident
+Hire car cover
+Uninsured drivers benefit
+Vandalism promise
+Windscreen cover
+Types of car insurance
+Types of car insurance
+Budget car insurance
+Business car insurance
+Electric car insurance
+Family car insurance
+Multi Car insurance
+Over 50s car insurance
+Student car insurance
+Womens car insurance
+Young drivers insurance
+Help
+Car insurance guides
+About MyAccount
+MyAccount
+Make a claim or report an incident
+Help centre
+Customer reviews
+
+ 
+
+Read all our customer reviews
+
+Defaqto 5 Star rated
+Defaqto 5 star rated car
+
+Our Hastings Direct,
+Hastings Premier and Hastings Direct YouDrive car insurance is 
+Defaqto 5 Star rated
+
+Moneyfacts award logo
+Hastings Direct, Hastings Premier and Hastings Direct YouDrive car insurance is
+Moneyfacts 5 Star rated
+
+Which of our products do you want documents for?
+
+Hastings Premier
+
+Hastings Direct
+
+Hastings Essential
+
+Hastings Direct YouDrive
+
+Additional Products
+All downloads are in Portable Document Format (PDF).
+
+All our policies comply with the General Data Protection Regulation (GDPR) and your latest data protection rights. Please view our privacy notice.
+
+
+Home insurance
+Relax in the knowledge that your home and its contents are well covered. Choose from buildings, contents and combined policies to get the level of cover you need.
+
+Get a home quote
+
+Bike insurance
+Great motorbike insurance with flexible extras. Tailor your cover to suit your needs and budget - leaving you free to enjoy the open road.
+
+Get a bike quote
+
+Van insurance
+All the tools for a great van insurance package, plus flexible options such as breakdown cover and legal protection, so you can tailor your cover to your needs.
+
+Get a van quote
+
+Multi Car insurance
+Get our guaranteed best price with Multi Car insurance!
+As a Multi Car customer, you can save money on every car you add to the policy. Don't worry if the additional cars aren't due for renewal yet – we've got that covered too.
+
+Best price based on a new Multi Car quote compared to a like for like new car quote.
+
+Get a Multi Car insurance quote
+Retrieve your car insurance quote
+Home
+Car insurance
+Multi Car insurance
+Already have car insurance with us?
+We can help you save on both cars. Upgrade to a Multi Car policy in MyAccount or our app. Or just give us a call on 0333 005 1156.
+
+Log in to MyAccount
+What is Multi Car insurance?
+Multi Car insurance, is a type of car insurance policy that covers more than one car. Supplied by a single provider, it provides all the typical features and benefits of a single-car insurance policy, as well as offering a discount for each extra car that you insure.
+
+How does Multi car insurance work?
+You’ll get a discount for every car that you insure, up to a maximum of five cars – even if the additional policies don’t start until up to 11 months in the future.^ 
+The same renewal date for all cars covered.
+All cars are organised under one account, so all your payments are in one place and you'll only need to change your address once if you move house.
+Simple to manage your account with our user-friendly app. 
+Available to anyone at the same address, such as family or friends.
+Cover can vary between cars, letting you choose cover type, excess amount and additional extras like breakdown cover.
+Each driver keeps builds up their no-claims bonus as long as each car has its own policy holder. 
+What's covered by Multi Car insurance?
+Choose our Multi Car insurance and benefit from a wide range of features:
+
+
+ 
+
+
+ 
+
+
+ 
+
+Courtesy car
+EU cover
+Driving other cars (subject to insurer approval)
+Windscreen cover
+Vandalism promise
+Uninsured driver promise
+Personal belongings cover
+Motor legal expenses
++ £29.99	+ £29.99	
+RAC breakdown
+from £34.99	from £34.99	
+24/7 claims helpline
+Manage your policy 24/7
+Defaqto rated
+    
+    
+    
+Why choose Hastings Direct Multi car cover?
+Need insurance for multiple vehicles? Then choose Hastings Direct and get competitively priced policies that have been independently five-star-rated by Defaqto. We’ve been around since 1997 and have over 3 million live customer policies, so you can be certain you’re dealing with experts in Multi Car insurance. 
+
+If you have any questions, our customer services team is on hand to help out too – online or over the phone. They’re highly rated by customers on Reviews.io, and our Multi Car cover has also won countless awards from the likes of Moneyfacts. 
+
+Get a Multi Car insurance quote
+How does no claims discount work on a multi car policy?
+On a Multi Car insurance policy, as long as each car has a separate policyholder, each policyholder will be able to build up their no-claims discount as they would on a single-car policy. 
+
+If one of the cars on the account is involved in an accident, then the discount on that vehicle will be reduced unless the policyholder has no claims discount protection. 
+ 
+
+Is it cheaper to add a second driver?
+Adding a second or named driver to your Multi Car insurance policy could mean cheaper premiums. However, this depends on the profile of the people you're adding. 
+
+The profile is based on the other driver's driving record and history. For instance, if they're inexperienced or have points on their licence, it could end up increasing the cost of your cover. 
+
+Is Multi Car insurance worth it?
+If you have multiple vehicles or want to group together the insurance of the people you live with, then Multi Car insurance could be worth it to enjoy a discount on cover. 
+
+Make sure to check the price of individual policies versus our Multi Car discount on each car to work out whether it’s right for you. To find out how much your cover could cost, get a quote today.
+
+ 
+
+Frequently asked questions
+Are there any exclusions?
+There are several exclusions which apply to our multiple vehicle insurance policies, including the use of any car: 
+
+For competitive racing. 
+By non-named drivers or those without a valid driving license. 
+To tow multiple or unsafe trailers, caravans or vehicles. 
+As a taxi or rented out to another driver. 
+For criminal purposes. 
+Your claim may also be denied if your car is stolen and not reported to the police or damaged while the driver was under the influence. 
+
+To view a full list of exclusions for your chosen Multi Car insurance, please view our policy documents. 
+
+Can I get Multi Car insurance online?
+Yes, you can get Multi Car insurance online with Hastings Direct, and retrieve the car insurance quote we give you at a later date too. Getting a quote online is easy: 
+
+1.    Just click to start your quote 
+
+2.    Select ‘Two or more’ 
+
+3.    Follow the on-screen directions, entering your vehicle details and personal details. 
+
+4.    Choose the level of cover that you would like 
+
+5.    Review your quote 
+
+Can I get Multi Car insurance if I already have a policy with Hastings Direct?
+Yes, you can get a Multi Car policy if you’re already covered by Hastings Direct. Upgrade to a Multi Car policy in MyAccount or our app. Or just give us a call on 0333 005 1156.
+
+How many cars can I add to a Multi Car policy
+You can add up to four extra cars to your Multi Car policy, up to a total of five cars. 
+
+Can you have two main drivers on the same car?
+No, you can’t – any car insurance policy needs to have one main driver (policyholder) and then any additional drivers are added as named drivers. 
+
+Can cars be removed from Multi Car insurance?
+Yes, they can. If you want to remove a car from your Multi Car insurance policy, then please get in touch.
+
+How long does my Multi Car policy last?
+Our Multi Car insurance typically lasts 12 months before renewal. If you add any additional vehicles during the 12-month term, they will be renewed at the same time as the first. 
+
+Can I drive all the cars on my Multi Car policy?
+For each car you’ll need to be the policy holder or named driver.  
+Home insurance
+We know how important your home and its contents are to you. That's why we offer home insurance that covers you for the unexpected expense that theft, loss and damage can bring.
+
+Get a home insurance quote
+Make a claim or report an incident
+Home
+Home Insurance
+What is home insurance?
+Home insurance protects your home and belongings against loss or damage caused by things like fire and theft.
+
+With the right home insurance policy, your provider will cover the costs to repair or replace the building or its contents should something unexpected happen.
+
+If you're just about to take your first step onto the property ladder or simply need a refresh, here's all you need to know about home insurance.
+
+What does home insurance cover?
+There are three main home insurance types:
+
+buildings only insurance,
+contents only insurance, or
+combined buildings and contents cover.
+Here's a summary of what they cover:
+
+Cover Included			
+Alternative accommodation cover for all your family and pets    	
+New for old (excluding linens and clothing)	
+Buildings insurance	£500,000	£1,000,000	£1,000,000
+Up to £150,000 contents cover	
+24 hour claims helpline	
+Home legal expenses up to £100,000 cover	Optional	Optional	
+Home emergency cover	Optional	Optional	
+ 
+
+The services we provide are covered under the Financial Services Compensation Scheme.
+
+Buildings only insurance
+Covers the cost to repair or replace the actual bricks and mortar of your home if it's damaged or destroyed by things like fire, water leaks or storms. Outbuildings such as sheds and garages are also covered, as are permanent fixtures like fitted kitchens and bathroom suites.
+
+Contents only insurance
+Protects your personal belongings against loss or damage caused by things like theft, attempted theft, fire, smoke, water leaks and weather-related damage. Items covered include everything from your sofa and TV to your bed and clothes. You can take out extra cover for high-value items and items you take away from the home, like bicycles.
+
+Combined buildings and contents
+Combines the above types of cover into one, easier-to-manage policy. Taking out combined insurance means you only have one renewal date to remember and you're likely to get a discount on your premium too.
+
+Is it a legal requirement to have home insurance?
+Buildings insurance isn't required by law if you're living in, or renting out, a property you own.
+
+If this is your first home, you'll need buildings cover when you take out a mortgage. Your mortgage provider or broker's likely to suggest a certain home insurance provider, but this might not get you the best deal. So get a few home insurance quotes before making a decision.
+
+While it's not a legal requirement to have contents insurance, if you didn't have cover you'd be putting your belongings at risk. If your sofa was ruined by floodwater or your jewellery was stolen, the costs to repair or replace them would come from your own pocket.
+
+If a number of your belongings were damaged, destroyed or stolen at the same time, it could work out extremely expensive – certainly more than the annual premium for contents cover. So this type of insurance is seriously worth considering.
+
+What home insurance do I need if I rent?
+If you're a tenant, your landlord is responsible for taking out buildings insurance. It's still important to check they've got this covered when you sign the tenancy agreement – don't be afraid to ask for proof.
+
+Contents insurance for your personal possessions is down to you though. Cover for the landlord's contents, like the sofa if they rent the property part-furnished, is their responsibility.
+
+Does home insurance cover boilers?
+Most home insurance policies don't cover boilers as standard, so you'll need to take out extra cover.
+
+Home emergency cover with Hastings Direct offers protection for a range of unexpected household emergencies, including boiler breakdowns. If your boiler stops working, all you need to do is ring the helpline on your policy documents, and we'll send an approved tradesperson to fix it.
+This type of policy also covers things like faulty heating systems, draining and plumbing issues, roof damage and failure of power and gas supplies.
+
+Policy info
+Policy info
+Acceptance criteria
+Insurance policy documents
+Information about our insurers
+Our fees
+Renewal prices
+Types of home insurance
+Types of home insurance
+Buildings only insurance
+Buildings and contents insurance
+Contents only insurance
+Policy features
+Policy features
+Home legal expenses
+Home emergency cover
+Help
+Home insurance guides
+About MyAccount
+MyAccount
+Make a claim or report an incident
+Help centre
+Hastings Direct Customer Reviews
+
+ 
+
+Read all our customer reviews
+
+Moneyfacts award logo home premier
+Hastings Premier home buildings and home contents insurance is
+Moneyfacts 5 Star rated
+
+Home insurance with Hastings Direct
+If you're looking for quality cover for a price that won't break the bank, it's got to be Hastings Direct. 60% of our customers insure their most valuable assets for less than £200 per year.*
+
+Each policy we offer can be tailored to match your individual needs and budget, too.
+
+As well as home emergency cover, we offer:
+
+Home legal expenses. This covers you and your family living with you with up to £100,000 towards legal costs to support you with employment disputes, contract issues, disputes or damage to your home, personal injury, clinical negligence, probate disputes, school admissions disputes and tax disputes. You can also call RAC's Legal Helpline to discuss any personal legal or debt matter.
+Get a home insurance quote with Hastings Direct today and see how much you could save!
+
+Motorbike insurance
+Few things beat the freedom of riding a motorbike. But whether you're a Harley fan, prefer tourers or own a sportier set of wheels, you need quality bike insurance to enjoy the open road.
+
+Get a bike insurance quote
+Make a claim or report an incident
+Home
+Motorbike insurance
+Why choose Hastings Direct bike insurance?
+We provide two levels of bike insurance so you can make sure you get the right cover for your needs.
+
+Comprehensive policies only		
+90 days of EU cover each trip abroad per trip	
+Multi bike - savings on additional bikes	
+Uninsured driver promise	
+24/7 claims helpline	
+Defaqto 5 Star rated cover	
+Helmet and leathers cover	
+£100,000 of legal cover	
+Hastings Direct also offers a range of optional extras, such as personal accident cover, breakdown, helmet & leathers and legal protection, which you can easily add to your motorbike policy. Limitations may apply to these products.
+
+What is motorbike insurance?
+Simply put, motorbike insurance is just like car insurance, but for bikes. If you or someone else is injured in an accident, or your bike's stolen or damaged, the right level of insurance will cover the associated costs and help you get back on the road.
+
+Bike insurance
+Our Premier bike insurance policies are Defaqto 5 Star rated, so you can be sure you're getting a good product. Plus you can choose from a great range of optional extras.
+
+Get a bike insurance quote
+What are the types of motorbike insurance?
+There are three main types of insurance for a motorbike: third party, third party fire and theft, and comprehensive.
+
+Third party is the most basic level of insurance and covers the third party and their property in the event of an accident. Your bike won't be covered if it's stolen or damaged.
+Third party fire and theft offers the same level of cover as third party, plus your bike is protected if it's stolen or damaged/destroyed by fire.
+Comprehensive insurance provides the best level of protection, packing all the benefits of third party insurance and covering you and your bike if you're injured in an accident or your bike is damaged/destroyed or stolen. It'll pay out for accidents even if you're found to be at fault.
+Comprehensive motorbike cover might cost more, but you're paying for added protection – which for many bikers is worth it.
+
+Do you need insurance on a bike?
+Yes – if you ride a bike on public roads, you need to have it insured. Third party insurance is the minimum level of cover required by law.
+
+How much is motorbike insurance?
+It's impossible to say how much bike insurance will cost you, as it depends on a wide range of factors. These include everything from your age and riding record, to what you use your bike for and where you live.
+
+The type of bike you ride is a big factor, too. The more powerful your machine, the higher the risk of accidents – and insurers balance out this risk by charging higher premiums. So, you might find insurance for a moped is far cheaper than for super-quick sport bike.
+
+Classic bikes usually cost more to insure than newer models too, especially if they're rare, because parts will be more expensive to get hold of.
+
+How can I get cheaper bike insurance?
+You can't change all factors that affect the price you pay for insurance on a motorbike, but there are some ways you can cut the cost of cover. These include:
+
+Boost your bike's security. Fitting an immobiliser on your bike or storing it in your garage overnight could lead to cheaper insurance.
+Pay for cover annually. You'll usually pay interest if you pay your premium in monthly instalments, so you could save cash paying for it in one lump sum.
+Improve your riding skills. Gaining an advanced qualification could lead to cheaper cover so long as it's recognised by your insurance provider. These include things like a BikeSafe certificate, Enhanced Rider Scheme and RoSPA Advanced Motorcycle Training.
+Buy a less powerful bike. Just about to buy your first set of wheels? Opting for a less powerful bike will lower your premium – not to mention, it's safer to start off on a slower bike.
+Increase your excess. Raising your excess usually results in cheaper cover, but you need to be sure you can afford to pay it if you were to claim on your policy.
+Can you insure two bikes on one policy?
+Do you own more than one bike? Perhaps you ride one bike to work and save the other for Sunday cruises. If so, you could save money by covering both machines under a single multi bike policy.
+
+Unlike a multi car policy, it only covers you, the main rider – and only allows for one bike to be on the road at any given time. That's why the cost of cover is usually cheaper, and it'll be easier for you to manage too.
+
+All motorbikes are grouped in terms of their power and value, with most bikes falling under groups 3-17. If you've got a bike in a lower group, then under a multi bike policy, it could balance out the cost of cover for a higher group bike.
+
+How do I claim on bike insurance?
+If you've been involved in an accident or had your bike stolen and need to make a claim, you should find all the details you need in your insurance documents sent over to you by your provider when you took out cover.
+
+Motorbike insurance with Hastings Direct
+Hastings Direct offers two levels of bike insurance so you can make sure you get the right cover for your needs.
+
+Each policy features a great range of benefits as standard, including 90 days of EU cover per trip, discounts for advanced riders and the option to protect your no claims. We also offer a number of extras, including up to £1000 worth of helmet and leathers insurance, bike legal expenses and bike breakdown cover.
+
+Hastings Direct motorbike insurance doesn't cover pillions as standard, but you can request pillion cover as an optional extra provided you hold a full motorbike licence.
+
+Get a bike insurance quote today and see how much you could save.
+
+Van insurance
+Protect your van with flexible insurance cover options from Hastings Direct. Our van insurance policy offers the cover you need, so if things go wrong you can get back to business quickly.
+
+Get a van insurance quote
+Make a claim or report an incident
+Home
+Van insurance
+Why choose Hastings Direct van insurance?
+Optional extras like breakdown cover and hire van cover allow you to build the tailor-made van insurance policy that suits you best.
+
+Comprehensive policies only			
+
+
+Get a courtesy vehicle while yours is being repaired	
+
+Personal accident cover	£1,000	£5,000	£5,000
+Unlimited windscreen and glass cover	
+£300 of personal items cover	
+24 hour claims helpline	
+Breakdown cover	Optional	Optional	
+Motor legal expenses cover	Optional	Optional	
+Hastings Direct also offers a range of optional extras, such as personal accident, breakdown and hire van cover, which you can easily add to your van policy. Limitations may apply to these products.
+
+Get a van insurance quote
+Van insurance
+If you rely on your van for work, an accident, theft or breakdown could cause everything to grind to a halt. Quality van insurance will help get your business back up and running as quickly as possible, giving you peace of mind your livelihood is well protected.
+
+What is van insurance?
+Just like car and bike cover, there are three levels of van insurance: third party (the most basic policy), third party fire and theft, and comprehensive. Comprehensive insurance is the highest level of cover, protecting you, your belongs and any third parties against accidents, damage, fire and theft.
+
+ 
+
+Van insurance comes in different types, and the right policy for you will depend on your personal circumstances. It's a little more confusing than car insurance, so to help make things clear, we've put together this simple guide on insurance for vans.
+
+What is commercial van insurance?
+Most people looking to insure a van will need a commercial van policy. In fact, the only time you wouldn't need commercial cover is if you use the van solely for domestic and social activities - like doing the shopping or transporting bikes. In this case, you'll need social, domestic and pleasure cover under a private van insurance policy.
+
+ 
+
+Basically, if your van is used for work in any way, and if you travel to and from more than one location on a daily basis, you'll need to take out a commercial policy - also called business van insurance.
+
+ 
+
+There's a grey area when it comes to use of the van for car boot sales. If you sell at them occasionally and the rest of the time use the van for social activities, a private policy should be fine. But if you're a regular trader, insurers may class this as using the van for business purposes. Either way, it's always a good idea to check with your insurance company.
+
+Why is van insurance so expensive?
+If you've got car insurance but are finding the premiums for van insurance quotes are much more expensive, there's a reason for this. It's because the costs associated with van insurance claims tend to be much higher due to factors like the cost of equipment inside the van. Insurers offset this risk by charging higher premiums.
+
+ 
+
+If you have a clean driving licence and have built up no claims on previous van policies, these will also help you get quality, cheap van insurance.
+
+Can you use car no claims on van insurance?
+Unfortunately, you can only transfer no claims discount built up on van insurance policies. You can't apply the discount to multiple vehicles, either.
+
+Can I get temporary van insurance?
+Some insurers offer specific, short-term insurance policies if you're planning to use a van on a short-term basis.
+
+Can I transfer my NCD from my car to my van?
+Unfortunately not. If you've built up a no claims discount driving a car, you can only transfer it to another car. No claims discounts can't be applied to multiple vehicles.
+
+I've been involved in an accident. What do I do?
+If you need to report an incident or make a claim, call us as soon as possible on 0333 321 9800 . We'll ask you for your policy number so make sure you have it to hand. Lines are open 24 hours a day, 365 days a year.
+
+Goods in transit cover
+If you transport cargo in your van, then you'll need goods in transit. This cover protects you against loss or damage of the goods whilst driving them from one place to another. If you regularly transport high-value items or hazardous products, you'll need to give details of them at the time of getting a quote.
+
+Courier/haulage insurance (carriage of goods for hire or reward)
+If you're a delivery driver who uses your van to transport other people's goods for payment, courier/haulage insurance is for you.
+
+Courier insurance is more suitable if you make multiple drop-offs each day at numerous addresses. Haulage insurance, on the other hand, is required when you carry out one or two drop-offs each day, usually through regular contracts. Both courier and haulage policies feature cover for goods in transit.
+
+Carriage of own goods
+This cover is for self-employed traders - such as plumbers, electricians and builders - who transport personal tools and equipment in their vans for their job. The policy protects you, the van and your own belongings in the event of an accident, theft or damage. Under the policy, the van will also be covered for social, domestic and pleasure use.
+
+If you're still unsure about the type of cover you need, get in contact with your insurer. You don't want to risk taking out the wrong policy, which could see an insurer refusing a claim.
+
+Van insurance with Hastings Direct
+If something were to go wrong, we'll do everything we can to help you get back to business as quick as possible.
+
+You can tailor your policy by choosing from a range of optional extras, including:
+
+Breakdown cover
+Roadside assistance and misfuelling are covered under our basic breakdown cover, but you can upgrade to enjoy features such as recovery away from home, emergency driver and home service.
+
+Personal accident
+Van personal accident cover will provide you with financial help if you suffer certain injuries as a result of an accident in the insured van. Those injuries include loss of a limb, hearing, speech, or sight in one or both eyes.
+
+Hire van cover
+If your van is stolen or damaged beyond repair, we'll arrange for a courtesy van for up to 28 days. Under hire van cover, we'll deliver the van to you free of charge and within one working day of you reporting the incident to us.

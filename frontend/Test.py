@@ -58,7 +58,7 @@ st.sidebar.button(':red[Clear Chat History]', on_click=clear_chat_history, type=
 def generate_llama2_response(prompt_input):
     string_dialogue = f'''You are a helpful assistant from Hasting Direct Company. You do not respond as 'User' or pretend to be 'User'. You only respond once as 'Assistant'.
                             You are helping for querying from the insurance company https://www.hastingsdirect.com/
-                            If you don't know the answer, say I don't know the answer. Only answer questions relevant to the
+                            Only answer questions relevant to the
                             insurances. If Other questions are asked, say you can only help with insurance related questions
                             The user is asking about {type_of_insurance} insurance'''
     for dict_message in st.session_state.messages:
