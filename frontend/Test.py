@@ -33,13 +33,13 @@ def clear_chat_history():
 
 def trigger(type):
     if type == 'car':
-        button_colors['car'] = 'red'
+        vc.change_vc(type)
     elif type == 'house':
-        button_colors['house'] = 'red'
+        vc.change_vc(type)
     elif type == 'bike':
-        button_colors['bike'] = 'red'
+        vc.change_vc(type)
     elif type == 'van':
-        button_colors['van'] = 'red'
+        vc.change_vc(type)
     for i in button_colors.keys():
         if i == type:
             continue
@@ -52,8 +52,6 @@ st.sidebar.button(f":{button_colors['house']}[House Insurance]", on_click=trigge
 st.sidebar.button(f":{button_colors['bike']}[Bike Insurance]", on_click=trigger, args=('bike',))
 st.sidebar.button(f":{button_colors['van']}[Van Insurance]", on_click=trigger, args=('van',))
 st.sidebar.button(':red[Clear Chat History]', on_click=clear_chat_history, type='primary')
-
-# st.sidebar.multiselect('Insurance Optionos', ['car', 'van', 'bike', 'van'])
 
 # Function for generating LLaMA2 response
 # Refactored from https://github.com/a16z-infra/llama2-chatbot
