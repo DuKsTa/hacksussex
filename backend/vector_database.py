@@ -7,8 +7,8 @@ import os
 
 
 class Vector_Database:
-    def __init__(self, api_key='hk-ra70v5100001078909955669250ff53f78864bfd10e597d6',
-                  api_base='https://api.openai-hk.com/v1/', collection_name='FAQ',
+    def __init__(self, api_key='',
+                  api_base='', collection_name='FAQ',
                   data_directory='backend/faqs_data/'):
         os.environ["OPENAI_API_KEY"] = api_key
         os.environ["OPENAI_API_BASE"] = api_base
